@@ -1,0 +1,6 @@
+*.i
+*.s
+*.o
+
+parallel/main
+serial/main
